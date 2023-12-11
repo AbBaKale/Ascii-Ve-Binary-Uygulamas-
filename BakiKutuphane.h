@@ -1,0 +1,70 @@
+#ifndef BakiKutuphane_h
+#define BakiKutuphane_h
+#include "Arduino.h"
+
+class BakiKale
+{
+  public:
+  void sutun_bir();
+  void sutun_iki();
+  void sutun_uc();
+  void sutun_dort();
+  void bir();
+  void iki();
+  void uc();
+  void dort();
+  void bes();
+  void alti();
+  void yedi();
+  void sekiz();
+  void dokuz();
+  void sifir();
+  void harf_a();
+  void harf_b();
+  void harf_c();
+  void harf_d();
+  void harf_e();
+  void harf_f();
+  void harf_g();
+  void harf_h();
+  void harf_I();
+  void harf_j();
+  void harf_k();
+  void harf_L();
+  void harf_m();
+  void harf_n();
+  void harf_o();
+  void harf_p();
+  void harf_r();
+  void harf_s();
+  void harf_t();
+  void harf_u();
+  void harf_v();
+  void harf_y();
+  void harf_z();
+  void bisci_a();
+  void bisci_b();
+  void bisci_c();
+  void bisci_d();
+  void bisci_e();
+  void bisci_f();
+  void bisci_g();
+  void bisci_h();
+  void bisci_i();
+  void bisci_j();
+  void bisci_k();
+  void bisci_l();
+  void bisci_m();
+  void bisci_n();
+  void bisci_o();
+  void bisci_p();
+  void bisci_r();
+  void bisci_s();
+  void bisci_t();
+  void bisci_u();
+  void bisci_v();
+  void bisci_y();
+  void bisci_z();
+  void kale_no_binary_asci();
+};
+#endif
